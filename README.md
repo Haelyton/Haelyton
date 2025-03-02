@@ -28,6 +28,8 @@
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=Haelyton&theme=dracula&no-frame=true" />
 </p>
 
+[![Resumo das Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=dracula)](https://github.com/Haelyton)
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
