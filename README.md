@@ -1,38 +1,38 @@
-# 👋 Olá, eu sou o Haelyton!  
+# 👋 Hello, I'm Haelyton!  
 
-## 🚀 Sobre mim  
-- 🎓 **Cursando Engenharia de Software** na **Faculdade Campo Real**  
-- 💼 **Desenvolvedor Back-End**, focado em **Java, Spring Boot e Banco de Dados**  
-- 🌱 Aprimorando conhecimentos em **Angular, JavaScript e tecnologias web**  
-- 🏋️‍♂️ Apaixonado por **Musculação, Músicas e Tecnologia**  
+## 🚀 About Me  
+- 🎓 **Software Engineering Student** at **Campo Real University**  
+- 💼 **Back-End Developer**, focused on **Java, Spring Boot, and Databases**  
+- 🌱 Currently improving my skills in **Angular, JavaScript, and Web Technologies**  
+- 🏋️‍♂️ Passionate about **Bodybuilding, Music, and Technology**  
 
 ---
 
-## 📊 Meu Dashboard  
+## 📊 My Dashboard  
 
 <p align="center">
-  <!-- Dash 1 - Estatísticas Gerais -->
+  <!-- Dash 1 - General Stats -->
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haelyton&show_icons=true&theme=dracula" />
 
-  <!-- Dash 2 - Linguagens Mais Usadas -->
+  <!-- Dash 2 - Most Used Languages -->
   <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haelyton&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
-  <!-- Dash 3 - Frequência de Commits -->
+  <!-- Dash 3 - Commit Streak -->
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haelyton&theme=dracula" />
 </p>
 
 <p align="center">
-  <!-- Dash 4 - Troféus e Conquistas -->
+  <!-- Dash 4 - Trophies -->
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=Haelyton&theme=dracula&no-frame=true" />
 </p>
 
-[![Resumo das Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=dracula)](https://github.com/Haelyton)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=dracula)](https://github.com/Haelyton)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Technologies & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -47,10 +47,10 @@
 
 ---
 
-## 📧 Contato  
+## 📧 Contact  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haelyton149@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haelyton6/)  
 
 ---
 
-🚀 **Bora codar e evoluir juntos!** 🚀
+🚀 **Let's code and grow together!** 🚀
