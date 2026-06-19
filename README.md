@@ -1,56 +1,127 @@
-# 👋 Hello, I'm Haelyton!  
+<div align="center">
 
-## 🚀 About Me  
-- 🎓 **Software Engineering Student** at **Campo Real University**  
-- 💼 **Back-End Developer**, focused on **Java, Spring Boot, and Databases**  
-- 🌱 Currently improving my skills in **Angular, JavaScript, and Web Technologies**  
-- 🏋️‍♂️ Passionate about **Bodybuilding, Music, and Technology**  
+# Hey, I'm Haelyton 👋
 
----
+**Backend Developer · Software Engineering Student · Music & Tech Enthusiast**
 
-## 📊 My Dashboard  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Java+%26+Quarkus+Backend+Developer;Building+ERP+%26+Fiscal+Platforms;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
-<p align="center">
-  <!-- Dash 1 - General Stats -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haelyton&show_icons=true&theme=dracula" />
-
-  <!-- Dash 2 - Most Used Languages -->
-  <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haelyton&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <!-- Dash 3 - Commit Streak -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Haelyton&theme=dracula" />
-</p>
-
-<p align="center">
-  <!-- Dash 4 - Trophies -->
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=Haelyton&theme=dracula&no-frame=true" />
-</p>
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=dracula)](https://github.com/Haelyton)
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools  
+## About me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+I'm a 19-year-old Backend Developer building ERP and fiscal systems at **NexusCloud** using Java, Quarkus, and PostgreSQL. I also study Software Engineering and teach Git/GitHub courses.
 
----
+When I'm not coding, I'm playing guitar, bass, or watching soccer.
 
-## 📧 Contact  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haelyton149@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haelyton.ms/)  
+```java
+public class Haelyton {
+    String role     = "Backend Developer @ NexusCloud";
+    String degree   = "Software Engineering @ Campo Real University";
+    String[] stack  = { "Java", "Quarkus", "PostgreSQL", "Kafka", "Angular" };
+    String[] hobbies = { "Guitar 🎸", "Bass 🎵", "Soccer ⚽", "Rock music 🤘" };
+    boolean openToCollaborate = true;
+}
+```
 
 ---
 
-🚀 **Let's code and grow together!** 🚀
+## Tech stack
+
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Database & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Haelyton&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haelyton&layout=compact&theme=default&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=Haelyton&theme=default&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Haelyton&theme=flat&no-frame=true&column=6&margin-w=8)](https://github.com/Haelyton)
+
+</div>
+
+<!--
+  💡 WakaTime: se você usar o plugin WakaTime no IntelliJ/VSCode,
+  adicione o card abaixo e configure o GitHub Action waka-readme.
+  https://github.com/anmol098/waka-readme-stats
+-->
+<!-- [![Haelyton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haelyton&theme=default&hide_border=true)](https://github.com/Haelyton) -->
+
+---
+
+## Featured projects
+
+> 🚧 *Pinned repos will show here — make sure to pin your best ones on your GitHub profile!*
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔐 **Guardian** | Android VPN app that blocks gambling sites with Firebase push notifications | Kotlin · Jetpack Compose · Room |
+| 📚 **Git/GitHub Course** | Slides and interactive materials for a Git intro course | PPTX · HTML |
+| 🐧 **Your next project** | Coming soon... | — |
+
+---
+
+## Contribution graph
+
+[![Haelyton's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=minimal&hide_border=true)](https://github.com/Haelyton)
+
+---
+
+## Contact
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/haelyton149@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haelyton149@gmail.com)
+[![Instagram](https://img.shields.io/badge/@haelyton.ms-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/haelyton.ms/)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ☕ and a lot of <code>git commit -m "fix: final fix (real this time)"</code></sub>
+</div>
