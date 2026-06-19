@@ -95,19 +95,15 @@ public class Haelyton {
 
 ## Featured projects
 
-> 🚧 *Pinned repos will show here — make sure to pin your best ones on your GitHub profile!*
-
 | Project | Description | Stack |
 |---|---|---|
-| 🔐 **Guardian** | Android VPN app that blocks gambling sites with Firebase push notifications | Kotlin · Jetpack Compose · Room |
-| 📚 **Git/GitHub Course** | Slides and interactive materials for a Git intro course | PPTX · HTML |
-| 🐧 **Your next project** | Coming soon... | — |
+| 🏦 **Banking System** | Full-featured banking system with account management, transactions and financial operations | Java · Spring Boot · PostgreSQL |
 
 ---
 
 ## Contribution graph
 
-[![Haelyton's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=minimal&hide_border=true)](https://github.com/Haelyton)
+[![Haelyton's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haelyton&theme=github-compact&hide_border=true&color=378ADD&line=378ADD&point=185FA5)](https://github.com/Haelyton)
 
 ---
 
