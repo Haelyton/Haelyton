@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm a 19-year-old Backend Developer building ERP and fiscal systems at **NexusCloud** using Java, Quarkus, and PostgreSQL. I also study Software Engineering and teach Git/GitHub courses.
+When I'm not coding, I'm shredding guitar, hitting the gym, gaming, reading thriller & sci-fi books, or watching Supernatural — always with good music in the background.
 
 When I'm not coding, I'm playing guitar, bass, or watching soccer.
 
