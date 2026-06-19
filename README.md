@@ -14,7 +14,6 @@
 
 When I'm not coding, I'm shredding guitar, hitting the gym, gaming, reading thriller & sci-fi books, or watching Supernatural — always with good music in the rock background.
 
-When I'm not coding, I'm playing guitar, bass, or watching soccer.
 
 ```java
 public class Haelyton {
